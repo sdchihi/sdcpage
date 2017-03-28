@@ -7,13 +7,10 @@ url:                #"https://sdchihi.github.io/"
 github:
   url:               #"https://lenpaul.github.io/Lagrange"
 author:
-  name:              "Paul Le"
-  email:             "l.nguyen.paul@gmail.com"
-  twitter:           "paululele"
-  instagram:         "paululele"
+  name:              "Shin DongChan"
+  email:             "sdchihi@naver.com"
   github:            "lenpaul"
   facebook:          "Le.Paul.94"
-  linkedin:          "lenpaul"
 navigation:
 - title: About
   url: /about
