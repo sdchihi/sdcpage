@@ -5,7 +5,7 @@ description:
 baseurl:            #"/sdchihi"
 url:                #"https://sdchihi.github.io/"
 github:             
-  url:               #"https://lenpaul.github.io/Lagrange"
+  url:               #"https://github.com/sdchihi"
 author:
   name:              "Shin DongChan"
   email:             "sdchihi@naver.com"
