@@ -4,13 +4,13 @@ tagline:             동찬이의 게임 일기
 description:
 baseurl:            #"/sdchihi"
 url:                #"https://sdchihi.github.io/"
-github:             #"sdchihi"
+github:             
   url:               #"https://lenpaul.github.io/Lagrange"
 author:
   name:              "Shin DongChan"
   email:             "sdchihi@naver.com"
-  github:            "lenpaul"
-  facebook:          "Le.Paul.94"
+  github:            "sdchihi"
+  facebook:          "sdchihi"
 navigation:
 - title: About
   url: /about
