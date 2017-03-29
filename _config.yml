@@ -1,10 +1,10 @@
 # Site Settings
 title:               RockTa!!
-tagline:             동찬이의 게임 일기
+tagline:             게임 프로그래밍 일기
 description:
 baseurl:            #"/sdchihi"
 url:                #"https://sdchihi.github.io/"
-github:             
+github:
   url:               #"https://github.com/sdchihi"
 author:
   name:              "Shin DongChan"

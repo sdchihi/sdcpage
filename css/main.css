@@ -143,6 +143,15 @@ blockquote p {
 }
 
 /*
+  Category
+*/
+.category{
+
+  margin-right : 10rem;
+  margin-bottom : 4rem;
+}
+
+/*
   Post
 */
 
