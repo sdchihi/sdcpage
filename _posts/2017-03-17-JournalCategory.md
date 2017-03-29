@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Journal"
-tags: [Journal]
+title: Journal
 ---
 
 <ul class="posts">
