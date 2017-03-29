@@ -149,6 +149,7 @@ blockquote p {
   position:fixed;
   width:20%;
   height:30%;
+  overflow:hidden;
   right:8rem;
   bottom:4em;
 }
