@@ -1,13 +1,7 @@
 ---
-layout: post
+layout: page
 title: "Journal"
-categories: Test
-tags: [category]
-image:
-  feature: spools.jpg
-  teaser: spools-teaser.jpg
-  credit:
-  creditlink:
+tags: [Journal]
 ---
 
 <ul class="posts">
