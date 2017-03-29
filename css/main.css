@@ -147,6 +147,8 @@ blockquote p {
 */
 .category{
   position:fixed;
+  width:20%;
+  height:30%;
   right:8rem;
   bottom:4em;
 }
