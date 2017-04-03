@@ -5,22 +5,22 @@ title: ETC
 
 <ul class="posts">
   {% for post in site.posts %}
-    {% for etcPost in post.tags.ETC %}
+    {% if post.tags == site.tags.ETC %}
 
-      {% unless etcPost.next %}
-        <h3>{{ etcPost.date | date: '%Y' }}</h3>
+      {% unless post.next %}
+        <h3>{{ post.date | date: '%Y' }}</h3>
         {% else %}
-        {% capture year %}{{ etcPost.date | etcPost: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ etcPost.next.date | date: '%Y' }}{% endcapture %}
+        {% capture year %}{{ post.date | post: '%Y' }}{% endcapture %}
+        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
         {% if year != nyear %}
-          <h3>{{ etcPost.date | date: '%Y' }}</h3>
+          <h3>{{ post.date | date: '%Y' }}</h3>
         {% endif %}
       {% endunless %}
 
       <li itemscope>
-        <a href="{{ site.github.url }}{{ etcPost.url }}">{{ etcPost.title }}</a>
-        <p class="post-date"><span><i class="fa fa-calendar" aria-hidden="true"></i> {{ etcPost.date | date: "%B %-d" }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span></p>
+        <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+        <p class="post-date"><span><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%B %-d" }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span></p>
       </li>
-      {% endfor %}
+    {% endif %}
   {% endfor %}
 </ul>
