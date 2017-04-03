@@ -18,6 +18,10 @@ navigation:
   url: /writing
 - title: Contact
   url: /contact
+- title: GameProgramming
+  url: /GameProgramming
+- title: ETC
+  url: /ETC
 
 paginate:            5
 disqus:              #"your-disqus"
