@@ -20,6 +20,8 @@ navigation:
   url: /contact
 - title: GameProgramming
   url: /GameProgramming
+- title: Shader
+  url: /Shader
 - title: ETC
   url: /ETC
 
