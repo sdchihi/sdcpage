@@ -25,9 +25,11 @@ navigation:
 - title: ETC
   url: /ETC
 assets:
+  dirname: assets
+  baseurl: /assets/
   sources:
     - _assets/fonts
-
+    
 paginate:            5
 disqus:              #"your-disqus"
 
