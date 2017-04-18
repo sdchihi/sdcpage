@@ -3,9 +3,9 @@
 */
 @font-face{
   font-family: "BM JUA";
-	src: url("../_assets/fonts/BMJUA_ttf.eot") format("embedded-opentype"),
-       url("../_assets/fonts/BMJUA_ttf.woff") format("woff"),
-       url('../_assets/fonts/BMJUA_ttf.ttf') format('truetype');
+	src: url("../fonts/BMJUA_ttf.eot") format("embedded-opentype"),
+       url("../fonts/BMJUA_ttf.woff") format("woff"),
+       url('../fonts/BMJUA_ttf.ttf') format('truetype');
 }
 
 .jua {font-family:'BM JUA','배달의민족 주아', "PT Serif",sans-serif;}
