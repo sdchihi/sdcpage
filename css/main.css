@@ -3,8 +3,8 @@
 */
 @font-face{
   font-family: "BM JUA";
-	src: url("../_assets/fonts/BMJUA_ttf.ttf.eot?") format("embedded-opentype"),
-       url("../_assets/fonts/BMJUA_ttf.ttf.woff") format("woff"),
+	src: url("../_assets/fonts/BMJUA_ttf.eot?") format("embedded-opentype"),
+       url("../_assets/fonts/BMJUA_ttf.woff") format("woff"),
        url('../_assets/fonts/BMJUA_ttf.ttf') format('truetype');
 }
 
