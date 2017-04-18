@@ -24,6 +24,9 @@ navigation:
   url: /Shader
 - title: ETC
   url: /ETC
+assets:
+  sources:
+    - _assets/fonts
 
 paginate:            5
 disqus:              #"your-disqus"
