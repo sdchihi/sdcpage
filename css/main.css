@@ -3,16 +3,10 @@
 */
 @font-face{
   font-family: "BM JUA";
-	src: url("../_assets/fonts/BMJUA_ttf.eot?") format("embedded-opentype"),
+	src: url("../_assets/fonts/BMJUA_ttf.eot") format("embedded-opentype"),
        url("../_assets/fonts/BMJUA_ttf.woff") format("woff"),
        url('../_assets/fonts/BMJUA_ttf.ttf') format('truetype');
 }
-
-/*
-<link href="https://cdn.rawgit.com/singihae/Webfonts/master/style.css" rel="stylesheet" type="text/css" />
-
-@import url('https://cdn.rawgit.com/singihae/Webfonts/master/style.css');
-*/
 
 .jua {font-family:'BM JUA','배달의민족 주아', "PT Serif",sans-serif;}
 
