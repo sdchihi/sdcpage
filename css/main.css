@@ -6,10 +6,6 @@
   src:url('../_assets/fonts/BMJUA_ttf.ttf') format('truetype');
 }
 
-
-![예시]({{ site.url }}/images/ShadowMapping.jpg)
-
-
 <link href="https://cdn.rawgit.com/singihae/Webfonts/master/style.css" rel="stylesheet" type="text/css" />
 
 @import url('https://cdn.rawgit.com/singihae/Webfonts/master/style.css');
