@@ -1,13 +1,20 @@
 /*
   Base
 */
-@font-face{
+/*@font-face{
   font-family: "Hanna";
   src:url('../_assets/fonts/hanna.ttf') format('truetype');
 }
+*/
+
+<link href="https://cdn.rawgit.com/singihae/Webfonts/master/style.css" rel="stylesheet" type="text/css" />
+
+@import url('https://cdn.rawgit.com/singihae/Webfonts/master/style.css');
+
+.jua {font-family:'BM JUA','배달의민족 주아', "PT Serif",sans-serif;}
 
 body {
-  font-family:"Hanna", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family:'BM JUA','배달의민족 주아', "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 18px;
   color: #515151;/*#3A3A3A;/*rgba(0,0,0,.8);/*#666;*/
   line-height: 1.75rem;
@@ -32,7 +39,7 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Hanna","Quattrocento Sans", sans-serif;
+  font-family: 'BM JUA','배달의민족 주아',"Quattrocento Sans", sans-serif;
   color: #333;
 }
 
@@ -129,7 +136,7 @@ blockquote p {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family:'BM JUA','배달의민족 주아', "Quattrocento Sans", sans-serif;
 }
 
 .masthead a:hover {
@@ -176,7 +183,7 @@ blockquote p {
   display: block;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family:'BM JUA','배달의민족 주아', 'Quattrocento Sans', sans-serif;
   font-size:0.8rem;
 }
 
@@ -205,7 +212,7 @@ blockquote p {
 
 .pagination {
   overflow: hidden;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family:'BM JUA','배달의민족 주아', 'Quattrocento Sans', sans-serif;
   text-align: center;
 }
 
