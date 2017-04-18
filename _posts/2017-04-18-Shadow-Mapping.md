@@ -45,10 +45,14 @@ image:
 
 <br>
 
-```HLSL
+```c
   // Shadow Map의 XY -> UV 좌표 설정
 
    float2 uv= input.mClipPosition.xy/ input.mClipPosition.w;
    uv.y = uv.y;
    uv = uv * 0.5 +0.5;
 ```
+<hr>
+<br>
+
+![예시]({{ site.url }}/images/ShadowMapping.jpg)
