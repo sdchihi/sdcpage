@@ -1,5 +1,5 @@
 <div class="category">
 {% for category in site.categories %}
-  <a name="{{ category | first }}" href="{{site.github.url}}/{{ category | first }}.html">{{ category | first }}</a>
+  <a class="category" name="{{ category | first }}" href="{{site.github.url}}/{{ category | first }}.html">{{ category | first }}</a>
 {% endfor %}
 </div>
