@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Unreal 기초"
-categories: GameProgramming
-tags: [Unreal]
+categories: Unreal
+tags: [GameProgramming]
 image:
   feature: atoz.jpg
   teaser: atoz_teaser.jpg
@@ -134,6 +134,6 @@ public:
 #### ETC
 
 <br>
-#####FString
+##### FString
 - 스트링 작업을 수월하게 하기 위한 메소드가 포함되어 있다.
 - TEXT 매크로 사용해야 함.
