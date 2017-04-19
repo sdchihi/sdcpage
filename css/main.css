@@ -162,7 +162,7 @@ blockquote p {
   bottom:3em;
 }
 
-.category a:hover{
+#category a:hover{
   border-radius:5px;
   background-color:red;
 }
