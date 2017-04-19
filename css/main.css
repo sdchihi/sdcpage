@@ -153,7 +153,7 @@ blockquote p {
 /*
   Category
 */
-.category{
+.category div{
   position:fixed;
   width:20%;
   height:30%;
