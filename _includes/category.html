@@ -1,4 +1,5 @@
 <div id="category">
+<legend>카테고리</legend>
 {% for category in site.categories %}
   <a class="category" name="{{ category | first }}" href="{{site.github.url}}/{{ category | first }}.html">{{ category | first }}</a>
 {% endfor %}
