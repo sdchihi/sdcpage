@@ -1,4 +1,4 @@
-<div class="category">
+<div id="category">
 {% for category in site.categories %}
   <a class="category" name="{{ category | first }}" href="{{site.github.url}}/{{ category | first }}.html">{{ category | first }}</a>
 {% endfor %}
