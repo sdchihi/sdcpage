@@ -4,8 +4,8 @@ title: "Unreal 기초"
 categories: Unreal
 tags: [GameProgramming]
 image:
-  feature: atoz.jpg
-  teaser: atoz_teaser.jpg
+  feature: unreal.jpg
+  teaser: unreal.jpg
   credit:
   creditlink:
 ---
