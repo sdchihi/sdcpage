@@ -4,8 +4,8 @@ title: "Shadow Mapping"
 categories: Shader
 tags: [Shader]
 image:
-  feature: atoz.jpg
-  teaser: atoz_teaser.jpg
+  feature: shader.jpg
+  teaser: shader.jpg
   credit:
   creditlink:
 ---

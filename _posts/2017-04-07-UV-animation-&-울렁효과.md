@@ -4,8 +4,8 @@ title: "UV 애니메이션 & 울렁효과"
 categories: Shader
 tags: [Shader]
 image:
-  feature: atoz.jpg
-  teaser: atoz_teaser.jpg
+  feature: shader.jpg
+  teaser: shader.jpg
   credit:
   creditlink:
 ---
