@@ -4,8 +4,8 @@ title: "Color Conversion (흑백 / 세피아 효과 사용)"
 categories: Shader
 tags: [Shader]
 image:
-  feature: shader.jpg
-  teaser: shader.jpg
+  feature: atoz.jpg
+  teaser: atoz_teaser.jpg
   credit:
   creditlink:
 ---
@@ -27,6 +27,7 @@ image:
 > 구현 과정에서 쓰인 사각형 모델이 뒷면으로 인식되서 Back face Culling(은면 제거)가
 이뤄져 화면에 결과가 나타나지 않았다. 이 기능을 제거하기 위해 Render State Block에서 CullMode를 None값으로 바꿔줌으로써 해결할 수 있었다.
 
+<br>
 <br>
 <hr>
 <br>
