@@ -22,9 +22,11 @@ navigation:
   url: /GameProgramming
 - title: Shader
   url: /Shader
+- title: Dev Record
+  url: /DevRecord
 - title: ETC
   url: /ETC
-    
+
 paginate:            5
 disqus:              #"your-disqus"
 
